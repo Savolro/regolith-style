@@ -1,0 +1,25 @@
+#define color_base03   #1F2430
+#define color_base02   #000000
+#define color_base01   #BFBAB0
+#define color_base00   #CBCCC6
+#define color_base0    #E6E1CF
+#define color_base1    #E6E1CF
+#define color_base2    #F28779
+#define color_base3    #FFFFFF
+#define color_yellow   #FFD580
+#define color_orange   #F9A03F
+#define color_red      #FF3333
+#define color_magenta  #FF4773
+#define color_violet   #000000
+! orange
+#define color_blue     #bd7908
+! light orange
+#define color_cyan     #f5ad36
+#define color_green    #BAE67E
+#define color_brown    #F29E74
+! orange again
+#define color_ltblue   #7a5416
+! arrow in zsh
+#define color_ltgreen  #A6CC70
+#define color_ltyellow #FFE6B3
+#define color_ltcyan   #e3b262
